@@ -1,0 +1,23 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarolinaTaran/goit-node-cli.git"
+  },
+  "author": "karolina taran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarolinaTaran/goit-node-cli/issues"
+  },
+  "homepage": "https://github.com/KarolinaTaran/goit-node-cli#readme",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
